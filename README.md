@@ -1,4 +1,4 @@
-Pingxin Shang \n
+# Pingxin Shang
 Student of Virginia Tech
 
 # hello-world
